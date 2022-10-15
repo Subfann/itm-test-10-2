@@ -1,0 +1,43 @@
+slider nur auf hauptseite
+
+
+
+darkmode farbe
+
+hsl(204deg 27% 22%)   mitteldark blue
+
+
+
+############################################
+hsl(210deg 57% 17%)   darker blue   = sec1 
+
+
+-- > var 1  hsl(210deg 57% 17% / 93%)  =sec2
+-- > var 2 hsl(210deg 57% 17% / 96%)
+
+
+https://spline.design/
+###########################################
+
+https://www.youtube.com/watch?v=l0jLhFEzvJo
+hove card overlay
+
+
+template
+https://museumtemplate.webflow.io/primary-home
+
+
+rose
+
+hsl(337deg 57% 17% / 47%)
+
+
+
+
+advanced
+
+https://www.youtube.com/watch?v=qLh12Aav3hs&list=PLP1ez8PMt-tvTc2CW44ulC1vBZQB-1-QE&index=63
+
+https://www.youtube.com/watch?v=o_bEveIFfoM&list=PLP1ez8PMt-tvTc2CW44ulC1vBZQB-1-QE&index=60
+
+https://www.youtube.com/watch?v=0Q9LS8KJkuY&list=PLP1ez8PMt-tvTc2CW44ulC1vBZQB-1-QE&index=66&t=154s

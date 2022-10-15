@@ -1,1 +1,2 @@
-# itm-test-10-2
+# ITM-eig-mit-slider
+Redesign of ITM-Solutions-Halime

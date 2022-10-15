@@ -1,0 +1,63 @@
+-maps #####
+-dark mode#########
+-dark mode bestimmt felder farblich anpassen, da diese in hintergrundfarbe verschwunden sind
+-slider
+-github push
+-git files ordnen
+
+
+hellblau hsl(210deg 100% 98%)
+
+bisschen dunkler hellblau hsl(210deg 100% 95%)
+
+
+hsl(215deg 100% 92%) = footer? für light mode
+
+oder bei footer lightmode auf (fast) ganz schwarz gehen
+
+
+idee:   hsl(210deg 23% 37%)
+
+
+5 minuten görlitz die östlichste stadt deutschlands
+
+
+
+
+
+hsl(210deg 57% 17% / 93%) light
+
+hsl(210deg 56% 20%)  meduim
+
+
+hsl(210deg 57% 17% / 96%) bisschen dunkler als medium
+
+
+hsl(210deg 57% 17%)   dark blue
+
+
+
+######## 
+main    --white-1:hsl(210deg 56% 20%);            medium 
+second  --white-2: hsl(210deg 55% 28% / 93%);     light
+footer  --cultured-3: hsl(210deg 59% 10%);        dark
+
+
+main      --white-1:hsl(210deg 59% 10%);             dark
+second    --white-2: hsl(210deg 56% 20%);            medium 
+footer    --cultured-3: hsl(210deg 55% 28% / 93%);   light
+					
+
+		v1							--white-2: hsl(210deg 55% 28% / 93%); med v2
+
+main      --white-1:hsl(210deg 59% 10%);            dark
+second    --white-2: hsl(210deg 56% 20%);            medium 
+footer    --cultured-3: hsl(210deg 56% 20%);            medium
+
+
+		v2
+
+main      --white-1:hsl(210deg 56% 20%);                medium
+second    --white-2: hsl(210deg 59% 10%);               dark
+footer    --cultured-3: hsl(210deg 59% 10%);            dark
+
